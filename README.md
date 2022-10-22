@@ -1,11 +1,6 @@
-# YoutubeDownloader
+#Youtube Downloader
 
-[![Build](https://github.com/yoxmo)
-[![Release](https://github.com/yoxmo)
-[![Downloads](https://github.com/yoxmo)
-[![Donate](https://github.com/yoxmo)
-
-> 🟢 **Project status**: Working<sup>[[?]](https://github.com/yoxmo)</sup>
+> 🟢 **Project status**: Working
 
 **Youtube Downloader** is an python script that lets you download videos from YouTube.
 
